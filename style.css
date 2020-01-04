@@ -1,0 +1,45 @@
+body {
+    background: #ebebeb;
+    margin: 0;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+header h1 {
+    background: white;
+    text-align: center;
+    margin: 0;
+    padding-right: 284px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+h2 {
+    width: 90%;
+    padding-left: 10px;
+    display: inline-block;    
+}
+div.post {
+    background: white;
+}
+div.container {
+    padding-top: 50px;
+    width: 600px;
+    margin: auto;
+}
+img {
+    max-width: 600px;
+}
+span {
+    color: #bfbfbf;
+}
+.header-post {
+    margin: auto;
+}
+p {
+    margin: auto;
+    padding: 10px 30px 15px 30px;
+}
+#hashtag {
+    font-weight: bold;
+}
+#last-pic {
+    padding-bottom: 60px;
+}
